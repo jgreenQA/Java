@@ -1,7 +1,7 @@
 package com.qac.battleships;
 
 public enum Ship {
-    PATROL_BOAT("patrol boat", 2, 2),
+    PATROLBOAT("patrol boat", 2, 2),
     BATTLESHIP("battleship", 2, 3),
     SUBMARINE("submarine", 1, 3),
     DESTROYER("destroyer", 1, 4),
