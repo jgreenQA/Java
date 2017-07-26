@@ -25,6 +25,7 @@ public class Basic {
 
         for (int a : arrInt) {
             System.out.println(a);
+            System.out.println(a * 10);
         }
     }
 
