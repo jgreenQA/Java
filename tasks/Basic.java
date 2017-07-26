@@ -37,17 +37,7 @@ public class Basic {
     }
 
     private static int sumNums(int x, int y, boolean b) {
-        if (x == 0 || y == 0) {
-            return x + y;
-        }
-
-        if (x == 0) {
-            return y;
-        } else if (y == 0) {
-            return x;
-        }
-
-        if (b) {
+        if ((x == 0 || y == 0) || b) {
             return x + y;
         }
         return x * y;
