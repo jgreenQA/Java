@@ -1,5 +1,4 @@
-# Various small applications written in Java 
-
+## Various small applications written in Java 
 
 Directory   | Description
 ------------|------------
